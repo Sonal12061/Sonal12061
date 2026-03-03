@@ -36,12 +36,12 @@ I write deep-dive technical blogs — not just code walkthroughs, but the *why* 
 
 | Article | Published |
 |---|---|
-| [Fine-Tuning DistilBERT for Sentiment Analysis — What I Actually Learned](https://medium.com/@sonal.mishra1297) | 2025 |
-| [LoRA + TinyLlama Medical QA — Trained 0.5% of Weights, Got a Doctor](https://medium.com/@sonal.mishra1297) | 2025 |
-| [Logistic Regression Explained Mathematically — From Loss to Gradients](https://medium.com/@sonal.mishra1297/logistic-regression-explained-mathematically-from-loss-function-to-gradients-and-training-6d39a696c948) | Sep 2025 |
-| [Logistic Regression Explained Intuitively — From Probabilities to Log-Odds](https://medium.com/@sonal.mishra1297/logistic-regression-explained-intuitively-from-probabilities-to-log-odds-25d32c39de4e) | Sep 2025 |
-| [LangGraph: Simplifying Agent Orchestration and State Management](https://medium.com/@sonal.mishra1297/langgraph-simplifying-agent-orchestration-and-state-management-6e0484e3399c) | Jun 2025 |
-| [Architectures of Agency: A Theoretical Tour of LangGraph Flow Designs](https://medium.com/@sonal.mishra1297/architectures-of-agency-a-theoretical-tour-of-langgraph-flow-designs-628aad613599) | Jun 2025 |
+| [Fine-Tuning DistilBERT for Sentiment Analysis — What I Actually Learned](https://medium.com/@sonal.mishra1297/i-fine-tuned-distilbert-for-sentiment-analysis-heres-what-i-actually-learned-4122ad4c42cc) | March 2026 |
+| [LoRA + TinyLlama Medical QA — Trained 0.5% of Weights, Got a Doctor](https://medium.com/@sonal.mishra1297/i-fine-tuned-a-1-1b-3d6882a115d6) | March 2026 |
+| [Logistic Regression Explained Mathematically — From Loss to Gradients](https://medium.com/@sonal.mishra1297/logistic-regression-explained-mathematically-from-loss-function-to-gradients-and-training-6d39a696c948) | 2025 |
+| [Logistic Regression Explained Intuitively — From Probabilities to Log-Odds](https://medium.com/@sonal.mishra1297/logistic-regression-explained-intuitively-from-probabilities-to-log-odds-25d32c39de4e) | 2025 |
+| [LangGraph: Simplifying Agent Orchestration and State Management](https://medium.com/@sonal.mishra1297/langgraph-simplifying-agent-orchestration-and-state-management-6e0484e3399c) | 2025 |
+| [Architectures of Agency: A Theoretical Tour of LangGraph Flow Designs](https://medium.com/@sonal.mishra1297/architectures-of-agency-a-theoretical-tour-of-langgraph-flow-designs-628aad613599) | 2025 |
 
 📖 [All articles on Medium →](https://medium.com/@sonal.mishra1297)
 
