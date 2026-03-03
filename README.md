@@ -1,6 +1,6 @@
 # Hi, I'm Sonal 👋
 
-**Data Scientist *(Consultant — Business Analyst)*** with 4+ years building production ML and GenAI systems.  
+**Data Scientist *(Consultant — Business Analytics)*** with 4+ years building production ML and GenAI systems.  
 Currently at **Allianz** · Previously at **Fractal Analytics** · Published researcher (CIRCLE 2022).
 
 ---
