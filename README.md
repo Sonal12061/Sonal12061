@@ -1,8 +1,7 @@
 # Hi, I'm Sonal 👋
 
 **Senior Data Scientist** with 4+ years building production ML and GenAI systems.  
-Currently at **Allianz** · Previously at **Fractal Analytics** · Published researcher (CIRCLE 2022)  
-Actively exploring roles in **GenAI Engineering** and **Senior Data Science** at top-tier tech companies.
+Currently at **Allianz** · Previously at **Fractal Analytics** · Published researcher (CIRCLE 2022).
 
 ---
 
