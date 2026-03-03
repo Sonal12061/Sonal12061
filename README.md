@@ -1,6 +1,6 @@
 # Hi, I'm Sonal 👋
 
-**Senior Data Scientist** with 4+ years building production ML and GenAI systems.  
+**Data Scientist *(Consultant — Business Analyst)*** with 4+ years building production ML and GenAI systems.  
 Currently at **Allianz** · Previously at **Fractal Analytics** · Published researcher (CIRCLE 2022).
 
 ---
@@ -9,18 +9,17 @@ Currently at **Allianz** · Previously at **Fractal Analytics** · Published res
 
 | Project | What It Does | Stack | Results |
 |---|---|---|---|
-| 🏥 [LoRA Fine-Tuning — Medical QA](./lora-tinyllama-medical-qa) | Fine-tuned TinyLlama-1.1B on USMLE questions using PEFT/LoRA | HuggingFace, PEFT, PyTorch | Trained only 0.5% of weights — full task adaptation |
-| 🎬 [DistilBERT Sentiment Analysis](./distilbert-sentiment-analysis) | Full fine-tuning of DistilBERT on SST-2 movie reviews | HuggingFace Transformers, PyTorch | 50.5% → 91.5% accuracy (+41%) |
-| 🎙️ [RAG — Lenny's Podcast](./rag-lenny-podcast) | Timestamp-based Q&A over podcast transcripts | FAISS, LangChain, Colab | In Progress |
-| 🤖 [LangGraph Implementations](./LangGraph_Implementations) | Agent orchestration patterns — ReAct, branching, state management | LangGraph, LangChain | — |
-| 🔢 [RNN Implementations](./RNN-Implementations) | RNN, LSTM, GRU from scratch with PyTorch | PyTorch | — |
+| 🏥 [LoRA Fine-Tuning — Medical QA](https://github.com/Sonal12061/LoRA-Fine-Tuning-Medical-QA) | Fine-tuned TinyLlama-1.1B on USMLE questions using PEFT/LoRA | HuggingFace, PEFT, PyTorch | Trained only 0.5% of weights — full task adaptation |
+| 🎬 [DistilBERT Sentiment Analysis](https://github.com/Sonal12061/distilbert-sentiment-analysis) | Full fine-tuning of DistilBERT on SST-2 movie reviews | HuggingFace Transformers, PyTorch | 50.5% → 91.5% accuracy (+41%) |
+| 🤖 [LangGraph Implementations](https://github.com/Sonal12061/LangGraph_Implementations) | Agent orchestration patterns — ReAct, branching, state management | LangGraph, LangChain | — |
+| 🔢 [ml-from-scratch](https://github.com/Sonal12061/ml-from-scratch) | RNN, LSTM, GRU from scratch with PyTorch | PyTorch | — |
 | ✂️ [Chunking Strategies](./Chunking) | Fixed, semantic, recursive chunking for RAG pipelines | LangChain, HuggingFace | — |
 
 ---
 
 ## 🏭 Production Experience
 
-**Allianz** · Senior Data Scientist *(Current)*
+**Allianz** · Data Scientist *(Current)*
 - Built an automated audit intelligence system — reduced manual review from **days → 2 minutes**
 - Fraud detection pipeline using XGBoost on structured financial data
 
