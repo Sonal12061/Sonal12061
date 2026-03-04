@@ -11,6 +11,7 @@ Currently at **Allianz** · Previously at **Fractal Analytics** · Published res
 |---|---|---|---|
 | 🏥 [LoRA Fine-Tuning — Medical QA](https://github.com/Sonal12061/LoRA-Fine-Tuning-Medical-QA) | Fine-tuned TinyLlama-1.1B on USMLE questions using PEFT/LoRA | HuggingFace, PEFT, PyTorch | Trained only 0.5% of weights — full task adaptation |
 | 🎬 [DistilBERT Sentiment Analysis](https://github.com/Sonal12061/distilbert-sentiment-analysis) | Full fine-tuning of DistilBERT on SST-2 movie reviews | HuggingFace Transformers, PyTorch | 50.5% → 91.5% accuracy (+41%) |
+|🔧 [MiniGPT + LoRA From Scratch](https://github.com/Sonal12061/minigpt-lora-from-scratch)| GPT architecture and LoRA adapter built in pure PyTorch — no HuggingFace| PyTorch| Char-level model learns Shakespeare dialogue structure, LoRA adapter trains ~1% of weights |
 | 🤖 [LangGraph Implementations](https://github.com/Sonal12061/LangGraph_Implementations) | Horizontal, hybrid & collaborative multi-agent pipelines with Redis + ChromaDB | LangGraph, LangChain | — |
 | 🔢 [ml-from-scratch](https://github.com/Sonal12061/ml-from-scratch) | RNN, LSTM, GRU from scratch with PyTorch | PyTorch | — |
 | ✂️ [Chunking Strategies](./Chunking) | Fixed, semantic, recursive chunking for RAG pipelines | LangChain, HuggingFace | — |
