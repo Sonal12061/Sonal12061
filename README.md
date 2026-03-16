@@ -76,6 +76,6 @@ I write deep-dive technical blogs — not just code walkthroughs, but the *why* 
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sonal-mishra-7597451aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonal-mishra-7597451aa/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@sonal.mishra1297)
 [![Research](https://img.shields.io/badge/CIRCLE%202022-Paper-red?style=flat)](https://ceur-ws.org/Vol-3178/CIRCLE_2022_paper_30.pdf)
