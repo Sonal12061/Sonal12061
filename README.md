@@ -70,7 +70,7 @@ I write deep-dive technical blogs — not just code walkthroughs, but the *why* 
 ![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=flat)
 
 **Certifications**  
-🏆 5× Microsoft Certified · including **AI-102** (Azure AI Engineer)
+🏆 4× Microsoft Certified · including **AI-102** (Azure AI Engineer)
 
 ---
 
