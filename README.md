@@ -14,6 +14,8 @@ Currently at **Allianz** · Previously at **Fractal Analytics** · Published res
 |🔧 [MiniGPT + LoRA From Scratch](https://github.com/Sonal12061/minigpt-lora-from-scratch)| GPT architecture and LoRA adapter built in pure PyTorch — no HuggingFace| PyTorch| Char-level model learns Shakespeare dialogue structure, LoRA adapter trains ~1% of weights |
 | 🤖 [LangGraph Implementations](https://github.com/Sonal12061/LangGraph_Implementations) | Horizontal, hybrid & collaborative multi-agent pipelines with Redis + ChromaDB | LangGraph, LangChain | — |
 | 🔢 [ml-from-scratch](https://github.com/Sonal12061/ml-from-scratch) | RNN, LSTM, GRU from scratch with PyTorch | PyTorch | — |
+| 🛒 [ecommerce-recommendation-xgboost](https://github.com/Sonal12061/ecommerce-recommendation-xgboost) | XGBoost purchase-prediction and ranking model on UCI Online Retail dataset | XGBoost, Optuna, SHAP, scikit-learn | AUC-ROC 0.9939 · NDCG@10 0.9689 · P@10 0.8729 vs popularity baseline 0.5502 |
+| 📊 [ml-monitoring-framework](https://github.com/Sonal12061/ml-monitoring-framework) | Production ML monitoring with PSI/KS drift detection, automated alerting, and CI/CD-triggered retraining | Streamlit, pandera, GitHub Actions, Plotly | Catches feature + prediction drift before model degrades in production |
 | ✂️ [Chunking Strategies](./Chunking) | Fixed, semantic, recursive chunking for RAG pipelines | LangChain, HuggingFace | — |
 
 ---
