@@ -16,7 +16,7 @@ Currently at **Allianz** · Previously at **Fractal Analytics** · Published res
 | 🔢 [ml-from-scratch](https://github.com/Sonal12061/ml-from-scratch) | RNN, LSTM, GRU from scratch with PyTorch | PyTorch | — |
 | 🛒 [ecommerce-recommendation-xgboost](https://github.com/Sonal12061/ecommerce-recommendation-xgboost) | XGBoost purchase-prediction and ranking model on UCI Online Retail dataset | XGBoost, Optuna, SHAP, scikit-learn | AUC-ROC 0.9939 · NDCG@10 0.9689 · P@10 0.8729 vs popularity baseline 0.5502 |
 | 📊 [ml-monitoring-framework](https://github.com/Sonal12061/ml-monitoring-framework) | Production ML monitoring with PSI/KS drift detection, automated alerting, and CI/CD-triggered retraining | Streamlit, pandera, GitHub Actions, Plotly | Catches feature + prediction drift before model degrades in production |
-| ✂️ [Chunking Strategies](./Chunking) | Fixed, semantic, recursive chunking for RAG pipelines | LangChain, HuggingFace | — |
+| ✂️ [chunking](https://github.com/Sonal12061/Chunking) | Systematic comparison of fixed, recursive, semantic, and parent-child chunking strategies for RAG pipelines on 5 Wikipedia articles (339k chars) | `Python` `sentence-transformers` `ChromaDB` `Streamlit` | Semantic coherence 0.9822 · Boundary score 0.9484 · vs fixed baseline 0.3861 coherence · 0.0400 boundary |
 
 ---
 
